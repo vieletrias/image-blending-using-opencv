@@ -1,0 +1,3 @@
+What is the coolest/most interesting thing you learned from this laboratory exercise?
+
+The coolest, most interesting thing that I have learned from this laboratory exercise is probably understanding how the way these images are being blended together. It is like taking a look into how the images are being processed in photoshop and the calculations and equation that are being put into the program to get results like these. It is very interesting and has given me insight on how complicated these actually are. 
